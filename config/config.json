@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5E1b111A0F257a84E3733a93238C3BcdFb11e75B",
+  "SCAN_LINK": "https://etherscan.io/address/0x5E1b111A0F257a84E3733a93238C3BcdFb11e75B",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Ethernal Masks",
+  "SYMBOL": "EM",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 80000000000000000,
+  "DISPLAY_COST": 0.08,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ethernal-masks",
+  "SHOW_BACKGROUND": true
+}
